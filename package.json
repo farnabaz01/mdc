@@ -119,21 +119,21 @@
     "@nuxt/module-builder": "^1.0.2",
     "@nuxt/schema": "^4.4.8",
     "@nuxt/test-utils": "^4.0.3",
-    "@nuxt/ui": "^4.8.2",
+    "@nuxt/ui": "^4.9.0",
     "@nuxtjs/mdc": "link:.",
-    "@types/node": "^25.9.3",
-    "eslint": "^10.4.1",
+    "@types/node": "^25.9.4",
+    "eslint": "^10.5.0",
     "nuxt": "^4.4.8",
     "rehype": "^13.0.2",
     "release-it": "^20.2.0",
     "typescript": "6.0.3",
-    "vitest": "^4.1.8",
-    "vue-tsc": "^3.3.4"
+    "vitest": "^4.1.9",
+    "vue-tsc": "^3.3.5"
   },
   "resolutions": {
-    "mkdist": "2.3.0"
+    "mkdist": "2.4.1"
   },
-  "packageManager": "pnpm@11.5.2",
+  "packageManager": "pnpm@11.8.0",
   "release-it": {
     "git": {
       "commitMessage": "chore(release): release v${version}"
